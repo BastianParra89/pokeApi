@@ -1,0 +1,29 @@
+.form-name {
+  text-align: center;
+  padding: 0.5rem;
+  
+}
+
+.input-form-name {
+  background-color: #ffffff;
+  width: 50%;
+  height: 22px;
+  
+  border: 1px solid black;
+  border-radius: 0.2rem;
+  box-shadow: 0 3px 30px 1px rgb(0 0 0 / 9%);
+}
+
+.button-form-name {
+  border-radius: 0.2rem;
+  color: #ffffff;
+  background-color: #ff0000;
+  font-size: 1rem;
+  font-weight: 100px;
+  border: 1px solid black;
+  width: 20%;
+}
+
+::placeholder {
+  color: darkgray;
+}

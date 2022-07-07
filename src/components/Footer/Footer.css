@@ -1,0 +1,15 @@
+footer {
+  text-align: center;
+  padding: 1rem;
+}
+
+footer h2 {
+  color: black;
+  font-size: 20px;
+  padding: 0.5rem;
+}
+
+footer a {
+  color: black;
+  font-size: 1.5rem;
+}
